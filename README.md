@@ -30,9 +30,10 @@ Permite que o usuário insira uma URL ou texto e gere instantaneamente um QR Cod
    git clone https://github.com/LucasViniciusBermudes/javascript-qrcode-generator.git
    
    # 2. Acesse a pasta do projeto
-   cd javascript-responsive-landingpage
+   cd javascript-qrcode-generator 
    
    # 3. Abra o arquivo index.html no navegador
    start index.html      # Windows
    open index.html       # macOS
    xdg-open index.html   # Linux
+
